@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+@media(max-width:700){
+  .formout{
+    width: 100%;
+    background-color: red;
+  }
+}
+  
